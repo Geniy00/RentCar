@@ -1,4 +1,5 @@
-This test project was written in April 2012. This project 
+This test project was written in April 2012. This project presents car rent service.
+Users can see cars, chose any car and rent it. Cars can be added and changed by administrator. Moreover, administrator can accept or reject user's orders.
 
 
 It demonstrate how to use:
